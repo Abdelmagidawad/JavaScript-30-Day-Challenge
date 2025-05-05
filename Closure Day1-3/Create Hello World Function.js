@@ -1,11 +1,11 @@
 
-//Problem of Day1 about topic closure
+// Problem of Day1 about topic closure
 
-Problem Name:  Create Hello World Function
+// Problem Name:  Create Hello World Function
 
-Problem on leetcode: https://leetcode.com/problems/create-hello-world-function/description/
+// Problem on leetcode: https://leetcode.com/problems/create-hello-world-function/description/
 
-Solution of this problem :
+// Solution of this problem :
 
 /**
  * @return {Function}

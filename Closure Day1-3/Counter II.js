@@ -1,11 +1,11 @@
 
-//Problem of Day2 about topic closure
+// Problem of Day3 about topic closure
 
-Problem Name:  Counter II
+// Problem Name:  Counter II
 
-Problem on leetcode: https://leetcode.com/problems/counter-ii/description/
+// Problem on leetcode: https://leetcode.com/problems/counter-ii/description/
 
-Solution of this problem :
+// Solution of this problem :
 
 /**
  * @param {integer} init

@@ -1,12 +1,12 @@
 
 
-//Problem of Day2 about topic closure
+// Problem of Day2 about topic closure
 
-Problem Name:  Counter
+// Problem Name:  Counter
 
-Problem on leetcode: https://leetcode.com/problems/counter/description/
+// Problem on leetcode: https://leetcode.com/problems/counter/description/
 
-Solution of this problem :
+// Solution of this problem :
 
 /**
  * @param {number} n
